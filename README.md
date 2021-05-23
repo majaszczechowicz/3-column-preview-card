@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Page Layout](.images/screenshot1.png)
-![Page Responsive Layout](.images/screenshot2.png)
+![Page Layout](images/screenshot1.png)
+![Page Responsive Layout](images/screenshot2.png)
 
 
 
