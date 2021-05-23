@@ -60,7 +60,7 @@ In future projects I want to practise flexbox and grid solutions.
 
 - GitHub - [Maja Szczechowicz](https://github.com/majaszczechowicz)
 - Frontend Mentor - [@MSorJinxi](https://www.frontendmentor.io/profile/MSorJinxi)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/maja-szczechowicz-5476a41a2/)
+- LinkedIn - [Maja Szczechowicz](https://www.linkedin.com/in/maja-szczechowicz-5476a41a2/)
 
 
 
