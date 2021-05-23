@@ -1,0 +1,156 @@
+/*font-family: 'Big Shoulders Display', cursive;
+Bright orange: hsl(31, 77%, 52%)
+Dark cyan: hsl(184, 100%, 22%)
+Very dark cyan: hsl(179, 100%, 13%)
+Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
+Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
+*/
+
+/*Global Styles
+---------------------------------------------*/
+body
+{
+	background-color: hsl(0, 0%, 95%);
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 15px;
+	font-weight: 400px;
+}
+
+h1
+{
+	font-family: 'Big Shoulders Display', cursive;
+	text-transform: uppercase;
+	color: hsl(0, 0%, 95%);
+}
+p
+{
+	color: hsla(0, 0%, 100%, 0.75);
+	text-spaceing: 7px;
+	line-height: 25px;
+}
+
+/*Main
+---------------------------------------------*/
+#rectangle
+{
+	width: 900px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.auto-type
+{
+	width: 200px;
+	height: 350px;
+	float: left;
+	padding: 50px;
+}
+
+.one
+{
+	background-color: hsl(31, 77%, 52%);
+	border-radius: 10px 0 0 10px;
+}
+
+.two
+{
+	background-color: hsl(184, 100%, 22%);
+}
+
+.three
+{
+	background-color: hsl(179, 100%, 13%);
+	border-radius: 0 10px 10px 0;
+}
+
+.btn
+{
+	display: inline-block;
+	margin-top: 70px;
+	width: 120px;
+	background-color: hsl(0, 0%, 95%);
+	padding: 10px;
+	border: 2px solid;
+	border-color: hsl(0, 0%, 95%);
+	border-radius: 50px;
+	text-decoration: none;
+	text-align: center;
+}
+
+.a
+{
+	color: hsl(31, 77%, 52%);
+}
+.a:hover
+{
+	background-color: hsl(31, 77%, 52%);
+	color: hsl(0, 0%, 95%);
+	border: 2px solid;
+	border-color: hsl(0, 0%, 95%);
+}
+.b
+{
+	color: hsl(184, 100%, 22%);
+}
+.b:hover
+{
+	background-color: hsl(184, 100%, 22%);
+	color: hsl(0, 0%, 95%);
+	border: 2px solid;
+	border-color: hsl(0, 0%, 95%);
+}
+.c
+{
+	color: hsl(179, 100%, 13%);
+}
+.c:hover
+{
+	background-color: hsl(179, 100%, 13%);
+	color: hsl(0, 0%, 95%);
+	border: 2px solid;
+	border-color: hsl(0, 0%, 95%);
+}
+
+/*Footer
+---------------------------------------------*/
+.attribution 
+{ 
+	font-size: 11px; text-align: center; 
+	padding: 20px;
+}
+.attribution a 
+{ 
+	color: hsl(228, 45%, 44%); 
+}
+
+/*Responsive
+---------------------------------------------*/
+@media screen and (max-width:700px)
+{
+	#rectangle
+	{
+	width: 300px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	.auto-type
+	{
+	float: none;
+	}
+	.one
+	{
+	border-radius: 10px 10px 0 0;
+	}
+
+	.two
+	{
+	border-radius: 0 0 0 0;
+	}
+
+	.three
+	{
+	border-radius: 0 0 10px 10px;
+	}
+}
