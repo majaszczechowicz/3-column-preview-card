@@ -35,6 +35,11 @@ Users should be able to:
 ![Page Layout](images/screenshot1.png)
 ![Page Responsive Layout](images/screenshot2.png)
 
+### Links
+
+- Solution URL: (https://github.com/majaszczechowicz/3-column-preview-card)
+- Live Site URL: (https://majaszczechowicz.github.io/3-column-preview-card/)
+
 
 
 ## My process
