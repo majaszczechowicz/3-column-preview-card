@@ -8,7 +8,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [General Info](#general-info)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -35,11 +34,6 @@ Users should be able to:
 
 ![Screenshot1](images/screenshot1.jpg)
 ![Screenshot2](images/screenshot2.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 
