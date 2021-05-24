@@ -81,7 +81,7 @@ p
 .a
 {
 	color: hsl(31, 77%, 52%);
-	transition: all 500ms ease-in-out;
+	transition: all 500ms linear;
 }
 .a:hover
 {
@@ -93,7 +93,7 @@ p
 .b
 {
 	color: hsl(184, 100%, 22%);
-	transition: all 500ms ease-in-out;
+	transition: all 500ms linear;
 }
 .b:hover
 {
@@ -105,7 +105,7 @@ p
 .c
 {
 	color: hsl(179, 100%, 13%);
-	transition: all 500ms ease-in-out;
+	transition: all 500ms linear;
 }
 .c:hover
 {
